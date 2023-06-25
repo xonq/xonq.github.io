@@ -16,11 +16,9 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  mycOMICs - Computational biology consulting at the bleeding-edge
 twitter_username: username
-github_username: username
+github_username: xonq 
 minimal_mistakes_skin: default
 search: true
 
@@ -58,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
