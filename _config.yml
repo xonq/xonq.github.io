@@ -16,7 +16,7 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  mycOMICs - Computational biology consulting at the bleeding-edge
+  mycOMICs - Computational genomics at the bleeding-edge
 twitter_username: username
 github_username: xonq 
 minimal_mistakes_skin: default
@@ -58,7 +58,10 @@ plugins:
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a computational biologist and analytical chemist specialized
+  in large-scale genomic-guided drug discovery, phylogenomics, and general integrative-omic analysis. I develop, implement, and consult on cutting-edge
+  genomics software and database deployment that enables large-scale, high
+  throughput comparative analyses." 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
