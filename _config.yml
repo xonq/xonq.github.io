@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zachary Konkel / mycOMICs, LLC
-email:
+email: konkelzach@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   mycOMICs - Computational genomics at the bleeding-edge
 twitter_username: username
@@ -84,9 +84,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
