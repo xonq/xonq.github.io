@@ -94,7 +94,8 @@ defaults:
       comments: true
       share: true
       related: true
-      header: "/assets/images/mycomics.png"
+      header: 
+        image: "/assets/images/mycomics.png"
   # _pages
   - scope:
       path: "_pages"
