@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: xonq 
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -88,12 +88,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      header: "/assets/images/mycomics.png"
   # _pages
   - scope:
       path: "_pages"
