@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a computational biologist, genome scientist, mycologist, and analytical chemist. I develop, implement, and consult on cutting-edge genomics software and database deployment that enables large-scale, high throughput comparative analyses. I am particularly specialized in genomic-guided drug discovery, phylogenomics, and general integrative-omic analysis.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am currently finalizing my PhD with Dr. [Jason C. Slot](https://u.osu.edu/slot.1/) at The Ohio State University, where I am a Translational Plant Sciences Fellow, Ohio Agricultural Research and Development Center Associate, and University Fellow. I previously worked as a quality control chemist, implementing chromatography and mass spectrometry to analyze terpenoid, pesticide, and solvent residues. I was trained in mass spectrometry and chromatography in Dr. [Sandra Loesgen's](http://loesgenlab.org/index.html) lab for four years.
+
