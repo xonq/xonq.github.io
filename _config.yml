@@ -67,6 +67,9 @@ author:
      [<FONT COLOR="1167b1">Integrative-omics</FONT>](https://pubmed.ncbi.nlm.nih.gov/36848567/)\
      [<FONT COLOR="1167b1">Analytical chemist</FONT>](https://www.sciencedirect.com/science/article/pii/S1087184519302361)
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:konkelzach@pm.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
@@ -76,6 +79,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:konkelzach@pm.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
