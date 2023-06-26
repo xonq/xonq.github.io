@@ -45,41 +45,41 @@ antimicrobials\
 ## ACHIEVEMENTS & FUNDING
 &nbsp;&nbsp;Translational Plant Sciences Research Fellowship\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Center for Applied Plant Sciences
-2020-2023</sub></sup>
+2020-2023</sup></sub>
 
 &nbsp;&nbsp;Best Poster Award\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Gordon Research Conference – Fungal Genetics
-2022</sub></sup>
+2022</sup></sub>
 
 &nbsp;&nbsp;Regeneron Scholarship\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Cold Spring Harbor Laboratory – Programming
-for Biology Workshop 2019</sub></sup>
+for Biology Workshop 2019</sup></sub>
 
 &nbsp;&nbsp; Mentor-Student Travel Award\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Mycological Society of America – 2019 Annual
-MSA Conference 2019</sub></sup>
+MSA Conference 2019</sup></sub>
 
 &nbsp;&nbsp;Director’s Associateship Award\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Ohio Agricultural Research and Development Center
-2019</sub></sup>
+2019</sup></sub>
 
 &nbsp;&nbsp;University Fellowship\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>The Ohio State University 2018</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>The Ohio State University 2018</sup></sub>
 
 &nbsp;&nbsp;Best Oral Presentation\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University – Microbiology
-Colloquium 2017</sub></sup>
+Colloquium 2017</sup></sub>
 
 &nbsp;&nbsp;URISC Grant\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University 2016</sub></sup>
+&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University 2016</sup></sub>
 
 &nbsp;&nbsp;Doc Gilfillan Award\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University – College of Science
-2016</sub></sup>
+2016</sup></sub>
 
 &nbsp;&nbsp;Robert’s Scholarship\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon Scholarship Access Commission
-2015-2017</sub></sup>
+2015-2017</sup></sub>
 
 
 
