@@ -21,10 +21,11 @@ to failed heterologous expression.
 <img align="left"
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycotools.png?raw=true">
 <b>Mycotools</b>: Mycotools is the foundation for automating genomics research.
-Mycotools increases the scale and standardization of all genomics data by
+Mycotools increases the scale of all genomics data by
 automatically assimilating a local database
-of publicly available genomes. All data is curated, including local genome
-additions, and all genomic data is referenced in a single, scalable file format
-for input. Mycotools software suite includes modules for automating
+of publicly- and locally-available genomes. This approach standardizes 
+genomics by curating notoriously inconsistent formats, 
+and streamlines collaboration by implementing a singular, easily-disseminated
+file format. Mycotools software suite includes modules for automating
 routine-complex comparative genomics, which form the basis for phylogenomic and
 gene cluster evolutionary analysis pipelines.
