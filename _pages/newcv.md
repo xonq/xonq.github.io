@@ -21,47 +21,47 @@ Cum Laude (3.69/4.00)
 ## EXPERIENCE
 ### Dr. Jason Slot’s Lab			Aug 2018 – Now
 #### Computational Biologist: Fungal evolutionary biologist
-    - Evolution of fungal gene cluster architecture
-    - Biosynthetic gene cluster detection algorithm development
-    - Secondary metabolism evolution and phylogenetics
+&nbsp;&nbsp; Evolution of fungal gene cluster architecture
+&nbsp;&nbsp; Biosynthetic gene cluster detection algorithm development
+&nbsp;&nbsp; Secondary metabolism evolution and phylogenetics
 
 Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
 Programming for Biology workshop selected teaching assistant
 
 ### Cascadia Labs				Aug 2017 – Jan 2018
 #### Quality Control Chemist
-    - Oregon (ORELAP) accredited analyte quantitation
-        -- LC-MS/MS, HPLC-UV, GC-MS, GC-FID
-    - Automated database reporting design
+&nbsp;&nbsp; Oregon (ORELAP) accredited analyte quantitation
+&nbsp;&nbsp;&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID
+&nbsp;&nbsp; Automated database reporting design
 
 ### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
 #### Analytical Chemist: Fungal Natural Product Drug Discovery
-    - Isolation and structure elucidation of novel MRSA-active antimicrobials
-    - Isolation of repressed Fusarium graminearum secondary metabolites
+&nbsp;&nbsp; Isolation and structure elucidation of novel MRSA-active antimicrobials
+&nbsp;&nbsp; Isolation of repressed Fusarium graminearum secondary metabolites
 
 
 
 ## ACHIEVEMENTS & FUNDING
-    - Translational Plant Sciences Research Fellowship – 2020-2023\
-      Center for Applied Plant Sciences
-    - Best Poster Award – 2022\
-      Gordon Research Conference – Fungal Genetics
-    - Regeneron Scholarship – 2019\
-      Cold Spring Harbor Laboratory – Programming for Biology Workshop
-    - Mentor-Student Travel Award – 2019\
-      Mycological Society of America – 2019 Annual MSA Conference
-    - Director’s Associateship Award – 2019\
-      Ohio Agricultural Research and Development Center
-    - University Fellowship – 2018\
-      The Ohio State University
-    - Best Oral Presentation – 2016\
-      Oregon State University – Microbiology Colloquium
-    - URISC Grant – 2016\
-      Oregon State University
-    - Doc Gilfillan Award – 2015\
-      Oregon State University – College of Science
-    - Robert’s Scholarship – 2015-2017\
-      Oregon Scholarship Access Commission
+&nbsp;&nbsp; Translational Plant Sciences Research Fellowship – 2020-2023\
+&nbsp;&nbsp;&nbsp;&nbsp; Center for Applied Plant Sciences
+&nbsp;&nbsp; Best Poster Award – 2022\
+&nbsp;&nbsp;&nbsp;&nbsp; Gordon Research Conference – Fungal Genetics
+&nbsp;&nbsp; Regeneron Scholarship – 2019\
+&nbsp;&nbsp;&nbsp;&nbsp; Cold Spring Harbor Laboratory – Programming for Biology Workshop
+&nbsp;&nbsp; Mentor-Student Travel Award – 2019\
+&nbsp;&nbsp;&nbsp;&nbsp; Mycological Society of America – 2019 Annual MSA Conference
+&nbsp;&nbsp; Director’s Associateship Award – 2019\
+&nbsp;&nbsp;&nbsp;&nbsp; Ohio Agricultural Research and Development Center
+&nbsp;&nbsp; University Fellowship – 2018\
+&nbsp;&nbsp;&nbsp;&nbsp; The Ohio State University
+&nbsp;&nbsp; Best Oral Presentation – 2016\
+&nbsp;&nbsp;&nbsp;&nbsp; Oregon State University – Microbiology Colloquium
+&nbsp;&nbsp; URISC Grant – 2016\
+&nbsp;&nbsp;&nbsp;&nbsp; Oregon State University
+&nbsp;&nbsp; Doc Gilfillan Award – 2015\
+&nbsp;&nbsp;&nbsp;&nbsp; Oregon State University – College of Science
+&nbsp;&nbsp; Robert’s Scholarship – 2015-2017\
+&nbsp;&nbsp;&nbsp;&nbsp; Oregon Scholarship Access Commission
 
 
 
