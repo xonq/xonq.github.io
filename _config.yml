@@ -80,7 +80,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:konkelzach@pm.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
