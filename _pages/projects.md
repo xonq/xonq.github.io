@@ -9,7 +9,7 @@ author_profile: true
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true"
 title="Co-occurrence Locus and Orthologous Cluster Identifier"
 style="width:325px"/></a>
-<b>CLOCI:</b> CLOCI is the most comprehensive prediction algorithm for gene
+CLOCI is the most comprehensive prediction algorithm for gene
 clusters that produce drug leads with the highest quality gene cluster reports to date. CLOCI performs
 the best in recovering reference biosynthetic gene clusters, with a 20%
 improvement compared to the leading standard, antiSMASH. CLOCI unveils previously undetectable
@@ -24,7 +24,7 @@ to failed heterologous expression.
 <a href="https://github.com/xonq/mycotools"><img align="left"
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycotools.png?raw=true"
 style="width:325px"/></a>
-<b>Mycotools</b>: Mycotools is the foundation for automating genomics research.
+Mycotools is the foundation for automating genomics research.
 Mycotools increases the scale of all genomics data by
 automatically assimilating a local database
 of publicly- and locally-available genomes. This approach standardizes 
