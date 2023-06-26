@@ -96,8 +96,8 @@ defaults:
       comments: true
       share: true
       related: true
-    header: 
-      image: "/assets/images/mycomics.png"
+      header: 
+        image: "/assets/images/mycomics.png"
   # _pages
   - scope:
       path: "_pages"
@@ -105,8 +105,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header: 
-      image: "/assets/images/mycomics.png"
+      header: 
+        image: "/assets/images/mycomics.png"
 
 
 category_archive:
