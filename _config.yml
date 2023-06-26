@@ -61,9 +61,13 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
      Drug discovery
+
      Gene cluster detection
+
      Phylogenomics
+
      Integrative-omics
+
      Analytical chemist
   links:
     - label: "LinkedIn"
