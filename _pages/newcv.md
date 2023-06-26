@@ -10,19 +10,19 @@ konkelzach@pm.me
 
 <br />
 
-##EDUCATION
-####The Ohio State University		Aug 2018 – Aug 2023 expected
+## EDUCATION
+#### The Ohio State University		Aug 2018 – Aug 2023 expected
 Translational Plant Sciences PhD Fellow
 
-####Oregon State University		Sep 2013 – Jun 2017
+#### Oregon State University		Sep 2013 – Jun 2017
 BS Biology: Ecology focus; Chemistry minor
 Cum Laude (3.69/4.00)
 
 <br />
 
-##EXPERIENCE
-###Dr. Jason Slot’s Lab			Aug 2018 – Now
-####Computational Biologist: Fungal evolutionary biologist
+## EXPERIENCE
+### Dr. Jason Slot’s Lab			Aug 2018 – Now
+#### Computational Biologist: Fungal evolutionary biologist
     * Evolution of fungal gene cluster architecture
     * Biosynthetic gene cluster detection algorithm development
     * Secondary metabolism evolution and phylogenetics
@@ -30,20 +30,20 @@ Cum Laude (3.69/4.00)
 Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
 Programming for Biology workshop selected teaching assistant
 
-###Cascadia Labs				Aug 2017 – Jan 2018
-####Quality Control Chemist
+### Cascadia Labs				Aug 2017 – Jan 2018
+#### Quality Control Chemist
     * Oregon (ORELAP) accredited analyte quantitation
         ** LC-MS/MS, HPLC-UV, GC-MS, GC-FID
     * Automated database reporting design
 
-###Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
-####Analytical Chemist: Fungal Natural Product Drug Discovery
+### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
+#### Analytical Chemist: Fungal Natural Product Drug Discovery
     * Isolation and structure elucidation of novel MRSA-active antimicrobials
     * Isolation of repressed Fusarium graminearum secondary metabolites
 
 <br />
 
-##ACHIEVEMENTS & FUNDING
+## ACHIEVEMENTS & FUNDING
     * Translational Plant Sciences Research Fellowship – 2020-2023\
       Center for Applied Plant Sciences
     * Best Poster Award – 2022\
@@ -66,7 +66,7 @@ Programming for Biology workshop selected teaching assistant
       Oregon Scholarship Access Commission
 
 
-##PUBLICATIONS
+## PUBLICATIONS
 Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., Konkel, Z., Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
 
 Scott, K., Konkel, Z., Gluck-Thaler, E., Valero David, G. E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte genomes support greater metabolic gene cluster diversity compared with non-endophytes in Trichoderma. BioRxiv (In review)
@@ -85,7 +85,7 @@ Adpressa, D. A., Connolly, L. R., Konkel, Z. M., Neuhaus, G. F., Chang, X. L., P
 
 <br />
 
-##PRESENTATIONS
+## PRESENTATIONS
 Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
 Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
