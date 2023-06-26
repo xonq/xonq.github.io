@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<img align="right" src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true", width="250"> 
+<img align="right" src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true"> 
 <b>CLOCI:</b> CLOCI is the most comprehensive prediction algorithm for gene
 clusters that produce drug leads with the highest quality gene cluster reports to date. CLOCI performs
 the best in recovering reference biosynthetic gene clusters, with a 20%
@@ -18,10 +18,13 @@ to failed heterologous expression.
 
 <br /><br />
 
-<img align="left" src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/pictogo.png?raw=true", width = 250>
-<b>Mycotools</b>: Mycotools is the foundation for automating genomics research by assimilating a local database
+<img align="left"
+src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycotools.png?raw=true">
+<b>Mycotools</b>: Mycotools is the foundation for automating genomics research.
+Mycotools increases the scale and standardization of all genomics data by
+automatically assimilating a local database
 of publicly available genomes. All data is curated, including local genome
 additions, and all genomic data is referenced in a single, scalable file format
 for input. Mycotools software suite includes modules for automating
-routine-comple comparative genomics, which form the basis for phylogenomic and
+routine-complex comparative genomics, which form the basis for phylogenomic and
 gene cluster evolutionary analysis pipelines.
