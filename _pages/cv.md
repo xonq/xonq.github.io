@@ -37,7 +37,7 @@ Quality Control Chemist\
 
 ### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
 Analytical Chemist: Fungal Natural Product Drug Discovery\
-&nbsp;&nbsp; Isolation and structure elucidation of novel MRSA-active
+&nbsp;&nbsp; Isolation and structure elucidation of
 antimicrobials\
 &nbsp;&nbsp; LC-MS, HPLC-UV
 
