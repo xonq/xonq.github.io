@@ -30,10 +30,11 @@ src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycotools.
 style="width:325px"/></a>
 Mycotools is the foundation for automating genomics research.
 Mycotools increases the scale of all genomics data by
-automatically assimilating a local database
-of publicly- and locally-available genomes. This approach standardizes 
+automatically assimilating a local database of 100,000s of publicly- and locally-available microbial genomes. This approach standardizes 
 genomics by curating notoriously inconsistent formats, 
 and streamlines collaboration by implementing a singular, easily-disseminated
 file format. Mycotools software suite includes modules for automating
 routine-complex comparative genomics, which form the basis for phylogenomic and
-gene cluster evolutionary analysis pipelines.
+gene cluster evolutionary analysis pipelines. <a
+href="https://github.com/xonq/mycotools/blob/master/mycotools/USAGE.md">Check
+out the usage guide.</a>
