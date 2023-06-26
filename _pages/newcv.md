@@ -85,7 +85,7 @@ Adpressa, D. A., Connolly, L. R., Konkel, Z. M., Neuhaus, G. F., Chang, X. L., P
 <br />
 
 ## PRESENTATIONS
-######## Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
+<sub><sup>Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
 Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
 
@@ -93,4 +93,7 @@ Konkel, Z., Slot, J. C. (2019). Structure-guided targeting of psilocybin gene ho
 
 Konkel, Z., Scott, K., Slot, J. C. (Poster, 2019). Genomic-guided metabolomic investigation of Atheliaceae psilocybin gene homologs. Mycological Society of America Conference
 
-Konkel, Z., Adpressa, D. A., Loesgen, S. (2017). Drugs from dirt: antibiotic leads from an Oregonian Aspergillus sp. Northwest Regional Meeting of the American Chemical Society; Volcano Conference; Celebrating Undergraduate Excellence
+Konkel, Z., Adpressa, D. A., Loesgen, S. (2017). Drugs from dirt: antibiotic
+leads from an Oregonian Aspergillus sp. Northwest Regional Meeting of the
+American Chemical Society; Volcano Conference; Celebrating Undergraduate
+Excellence</sup></sub>
