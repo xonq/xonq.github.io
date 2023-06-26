@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-![mycomics, llc](https://github.com/xonq/xonq.github.io/-/raw/master/assets/images/mycomics.png)
+![mycomics, llc](https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycomics.png?raw=true)
 
 I am a computational biologist, genome scientist, mycologist, and analytical chemist. I develop, implement, and consult on cutting-edge genomics software and database deployment that enables large-scale, high throughput comparative analyses. I am particularly specialized in genomic-guided drug discovery, phylogenomics, and general integrative-omic analysis.
 
