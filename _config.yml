@@ -59,10 +59,8 @@ logo: "/assets/images/mycomics.png"
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a computational biologist and analytical chemist specializing
-  in large-scale genomic-guided drug discovery, phylogenomics, and general integrative-omic analysis. I develop, implement, and consult on cutting-edge
-  genomics software and database deployment that enables large-scale, high
-  throughput comparative analyses." 
+  bio    : "Drug discovery | Gene cluster detection | Phylogenomics | Integrative -omics | Analytical
+  chemist"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
