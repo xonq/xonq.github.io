@@ -60,7 +60,7 @@ author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
-     [Drug discovery](https://www.sciencedirect.com/science/article/pii/S1087184519302361)\
+     <FONT COLOR="1167b1">[Drug discovery](https://www.sciencedirect.com/science/article/pii/S1087184519302361)</FONT>\
      [Gene cluster detection](https://www.biorxiv.org/content/10.1101/2023.06.20.545441v1)\
      [Large-scale genomics](https://github.com/xonq/mycotools)\
      [Phylogenomics](https://www.biorxiv.org/content/10.1101/2023.03.14.532605v1.abstract)\
