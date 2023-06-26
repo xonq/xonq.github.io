@@ -66,7 +66,10 @@ antimicrobials\
 
 
 
-## PUBLICATIONS
+#### PUBLICATIONS
+<sub><sup>Konkel, Z., Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
+gene clusters with generalized detection. bioRxiv (preprint)
+
 <sub><sup>Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., Konkel, Z., Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
 
 <sub><sup>Scott, K., Konkel, Z., Gluck-Thaler, E., Valero David, G. E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte genomes support greater metabolic gene cluster diversity compared with non-endophytes in Trichoderma. BioRxiv (In review)
@@ -85,7 +88,7 @@ antimicrobials\
 
 <br />
 
-## PRESENTATIONS
+#### PRESENTATIONS
 <sub><sup>Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
 <sub><sup>Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
