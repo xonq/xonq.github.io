@@ -16,7 +16,7 @@ Translational Plant Sciences PhD Fellow
 
 #### Oregon State University		
 Sep 2013 – Jun 2017\
-BS Biology: Ecology focus; Chemistry minor; Cum Laude\
+BS Biology: Ecology focus; Chemistry minor; Cum Laude
 
 
 ## EXPERIENCE
@@ -55,7 +55,7 @@ antimicrobials\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Cold Spring Harbor Laboratory – Programming
 for Biology Workshop 2019</sup></sub>
 
-&nbsp;&nbsp; Mentor-Student Travel Award\
+&nbsp;&nbsp;Mentor-Student Travel Award\
 &nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Mycological Society of America – 2019 Annual
 MSA Conference 2019</sup></sub>
 
