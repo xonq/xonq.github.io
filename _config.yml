@@ -57,9 +57,6 @@ plugins:
 
 logo: "/assets/images/mycomics.png"
 
-header:
-  image: "/assets/images/mycomics.png"
-
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
@@ -69,7 +66,7 @@ author:
   throughput comparative analyses." 
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +75,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -105,8 +102,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header: 
-        image: "/assets/images/mycomics.png"
 
 
 category_archive:
