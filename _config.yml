@@ -55,6 +55,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/mycomics.png"
+
+header:
+  image: "/assets/images/mycomics.png"
+
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
