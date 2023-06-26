@@ -10,35 +10,36 @@ konkelzach@pm.me
 
 
 ## EDUCATION
-#### The Ohio State University		Aug 2018 – Aug 2023 expected
+#### The Ohio State University		
+Aug 2018 – Aug 2023 expected\
 Translational Plant Sciences PhD Fellow
 
-#### Oregon State University		Sep 2013 – Jun 2017
-BS Biology: Ecology focus; Chemistry minor
-Cum Laude (3.69/4.00)
+#### Oregon State University		
+Sep 2013 – Jun 2017\
+BS Biology: Ecology focus; Chemistry minor; Cum Laude\
 
 
 ## EXPERIENCE
 ### Dr. Jason Slot’s Lab			Aug 2018 – Now
-#### Computational Biologist: Fungal evolutionary biologist
-&nbsp;&nbsp; Evolution of fungal gene cluster architecture
-&nbsp;&nbsp; Biosynthetic gene cluster detection algorithm development
+Computational Biologist: Fungal evolutionary biologist\
+&nbsp;&nbsp; Evolution of fungal gene cluster architecture\
+&nbsp;&nbsp; Biosynthetic gene cluster detection algorithm development\
 &nbsp;&nbsp; Secondary metabolism evolution and phylogenetics
 
-Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
+### Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
 Programming for Biology workshop selected teaching assistant
 
 ### Cascadia Labs				Aug 2017 – Jan 2018
-#### Quality Control Chemist
-&nbsp;&nbsp; Oregon (ORELAP) accredited analyte quantitation
-&nbsp;&nbsp;&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID
+Quality Control Chemist\
+&nbsp;&nbsp; Oregon (ORELAP) accredited analyte quantitation\
+&nbsp;&nbsp;&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID\
 &nbsp;&nbsp; Automated database reporting design
 
 ### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
-#### Analytical Chemist: Fungal Natural Product Drug Discovery
-&nbsp;&nbsp; Isolation and structure elucidation of novel MRSA-active antimicrobials
+Analytical Chemist: Fungal Natural Product Drug Discovery\
+&nbsp;&nbsp; Isolation and structure elucidation of novel MRSA-active
+antimicrobials\
 &nbsp;&nbsp; Isolation of repressed Fusarium graminearum secondary metabolites
-
 
 
 ## ACHIEVEMENTS & FUNDING
