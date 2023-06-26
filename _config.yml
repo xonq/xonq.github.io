@@ -63,21 +63,18 @@ author:
   genomics software and database deployment that enables large-scale, high
   throughput comparative analyses." 
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/konkelzach"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xonq"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/konkelzach"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xonq"
