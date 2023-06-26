@@ -9,15 +9,19 @@ author_profile: true
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true"
 title="Co-occurrence Locus and Orthologous Cluster Identifier"
 style="width:325px"/></a>
-CLOCI is the most comprehensive prediction algorithm for gene
-clusters that produce drug leads with the highest quality gene cluster reports to date. CLOCI performs
+CLOCI introduces a paradigm-shift in genome-guided drug discovery by detecting 
+clusters of colocalized and coordinately functioning genes, or gene clusters, 
+that underly the synthesis of microbe natural products. CLOCI performs
 the best in recovering reference biosynthetic gene clusters, with a 20%
-improvement compared to the leading standard, antiSMASH. CLOCI unveils previously undetectable
-clusters that produce drugs, such as the psilocybin synthesis cluster.
-Additionally, CLOCI reports clusters with 0 median extraneous and missing
-genes, leading to higher quality heterologous expression predictions - in
-comparison, antiSMASH on average predicts clusters double their size, leading
-to failed heterologous expression. 
+improvement compared to the leading standard, antiSMASH. This approach is
+suited for identifying drug lead-producing gene clusters that are overlooked by
+previous algorithms, such as the neuroactive psilocybin synthesis cluster.
+CLOCI predictions are more suitable for biomanufacturing and bioprospecting
+because the algorithm output detects clusters with 0 median extraneous and missing
+genes, leading to higher quality heterologous expression predictions. This is
+in stark contrast to the standard approach, antiSMASH, which by mean 
+predicts clusters as double their size, thereby convoluting downstream
+experimentation.
 
 <br /><br />
 
