@@ -86,7 +86,7 @@ Adpressa, D. A., Connolly, L. R., Konkel, Z. M., Neuhaus, G. F., Chang, X. L., P
 <br />
 
 ## PRESENTATIONS
-Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
+######## Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
 Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
 
