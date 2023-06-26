@@ -17,7 +17,6 @@ title: Zachary Konkel / mycomics, LLC
 email: konkelzach@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   mycOMICs - Computational genomics at the bleeding-edge
-twitter_username: username
 github_username: xonq 
 minimal_mistakes_skin: default
 search: false
@@ -60,7 +59,7 @@ logo: "/assets/images/mycomics.png"
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a computational biologist and analytical chemist specialized
+  bio    : "I am a computational biologist and analytical chemist specializing
   in large-scale genomic-guided drug discovery, phylogenomics, and general integrative-omic analysis. I develop, implement, and consult on cutting-edge
   genomics software and database deployment that enables large-scale, high
   throughput comparative analyses." 
