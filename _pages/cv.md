@@ -32,14 +32,14 @@ Programming for Biology workshop selected teaching assistant
 ### Cascadia Labs				Aug 2017 – Jan 2018
 Quality Control Chemist\
 &nbsp;&nbsp; Oregon (ORELAP) accredited analyte quantitation\
-&nbsp;&nbsp;&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID\
+&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID\
 &nbsp;&nbsp; Automated database reporting design
 
 ### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
 Analytical Chemist: Fungal Natural Product Drug Discovery\
 &nbsp;&nbsp; Isolation and structure elucidation of novel MRSA-active
 antimicrobials\
-&nbsp;&nbsp; Isolation of repressed Fusarium graminearum secondary metabolites
+&nbsp;&nbsp; LC-MS, HPLC-UV
 
 
 ## ACHIEVEMENTS & FUNDING
