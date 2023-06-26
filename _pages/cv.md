@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: false
 ---
 
-ZACHARY KONKEL
+ZACHARY KONKEL\
 konkelzach@pm.me
 
 
