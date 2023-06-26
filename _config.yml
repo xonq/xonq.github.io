@@ -59,8 +59,8 @@ logo: "/assets/images/mycomics.png"
 author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Drug discovery | Gene cluster detection | Phylogenomics | Integrative -omics | Analytical
-  chemist"
+  bio    : "Drug discovery\nGene cluster detection\nPhylogenomics\nIntegrative
+  -omics\nAnalytical chemist"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
