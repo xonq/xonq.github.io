@@ -60,11 +60,11 @@ author:
   name   : "Zachary Konkel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
-     Drug discovery\
-     Gene cluster detection\
-     Phylogenomics\
-     Integrative-omics\
-     Analytical chemist
+     [Drug discovery](https://www.sciencedirect.com/science/article/pii/S1087184519302361)\
+     [Gene cluster detection](https://www.biorxiv.org/content/10.1101/2023.06.20.545441v1)\
+     [Phylogenomics](https://www.biorxiv.org/content/10.1101/2023.03.14.532605v1.abstract)\
+     [Integrative-omics](https://pubmed.ncbi.nlm.nih.gov/36848567/)\
+     [Analytical chemist](https://www.sciencedirect.com/science/article/pii/S1087184519302361)
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
