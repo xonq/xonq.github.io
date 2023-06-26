@@ -88,7 +88,7 @@ antimicrobials\
 ## PRESENTATIONS
 <sub><sup>Konkel, Z., Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
-<sub>>sup>Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
+<sub><sup>Konkel, Z., Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
 
 <sub><sup>Konkel, Z., Slot, J. C. (2019). Structure-guided targeting of psilocybin gene homolog metabolites: A novel autonomous approach. Ohio Mass Spectrometry and Metabolomics Symposium.
 
