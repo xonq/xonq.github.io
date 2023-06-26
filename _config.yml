@@ -68,7 +68,7 @@ author:
      [<FONT COLOR="1167b1">Analytical chemist</FONT>](https://www.sciencedirect.com/science/article/pii/S1087184519302361)
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:konkelzach@pm.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
