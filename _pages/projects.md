@@ -9,7 +9,7 @@ author_profile: true
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true"
 title="Co-occurrence Locus and Orthologous Cluster Identifier"
 style="width:325px"/></a>
-CLOCI introduces a paradigm-shift in genome-guided drug discovery by detecting 
+CLOCI introduces a paradigm-shift in genome-guided drug discovery by accurately detecting 
 clusters of colocalized and coordinately functioning genes, or gene clusters, 
 that underly the synthesis of microbial natural products. CLOCI performs
 the best in recovering reference biosynthetic gene clusters, with a <a
