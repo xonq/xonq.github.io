@@ -12,7 +12,9 @@ konkelzach@pm.me
 ## EDUCATION
 #### The Ohio State University		
 Aug 2018 – Aug 2023 expected\
-Translational Plant Sciences PhD Fellow
+Translational Plant Sciences PhD Fellow\
+Ohio Agricultural Research and Development Center Associate\
+University Fellow
 
 #### Oregon State University		
 Sep 2013 – Jun 2017\
