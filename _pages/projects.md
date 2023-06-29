@@ -39,6 +39,6 @@ genomics by curating notoriously inconsistent formats,
 and streamlines collaboration by implementing a singular, easily-disseminated
 file format. Mycotools software suite includes modules for automating
 routine-complex comparative genomics, which form the basis for phylogenomic and
-gene cluster evolutionary analysis pipelines. <a
+gene cluster evolutionary analysis pipelines. Mycotools is currently optimized for fungi, though prokaryotes are compatible and the framework is taxonomy-agnostic. <a
 href="https://github.com/xonq/mycotools/blob/master/mycotools/USAGE.md">Check
 out the usage guide.</a>
