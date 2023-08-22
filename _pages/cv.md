@@ -5,13 +5,15 @@ permalink: /cv/
 author_profile: false
 ---
 
-ZACHARY KONKEL\
+ZACHARY KONKEL, PhD\
 konkelzach@pm.me
 
 
 ## EDUCATION
 #### The Ohio State University		
-Aug 2018 – Aug 2023 expected\
+Aug 2018 – Aug 2023\
+PhD: Translational Plant Sciences\
+Dissertation: On Molecular Symbiosis and the Evolution of Fungal Genome Architecture\
 Translational Plant Sciences PhD Fellow\
 Ohio Agricultural Research and Development Center Associate\
 University Fellow
@@ -22,7 +24,7 @@ BS Biology: Ecology focus; Chemistry minor; Cum Laude
 
 
 ## EXPERIENCE
-### Dr. Jason Slot’s Lab			Aug 2018 – Now
+### Dr. Jason Slot’s Lab			Aug 2018 – Aug 2023
 Computational Biologist: Fungal evolutionary biologist\
 &nbsp;&nbsp; Evolution of fungal gene cluster architecture\
 &nbsp;&nbsp; Biosynthetic gene cluster detection\
