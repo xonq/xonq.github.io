@@ -11,19 +11,18 @@ title="Co-occurrence Locus and Orthologous Cluster Identifier"
 style="width:325px"/></a>
 CLOCI introduces a paradigm-shift in genome-guided drug discovery by accurately detecting 
 clusters of colocalized and coordinately functioning genes, or gene clusters, 
-that underly the synthesis of microbial natural products. CLOCI performs
-the best in recovering reference biosynthetic gene clusters, with a <a
-href="https://github.com/xonq/cloci/blob/master/etc/recovery.png">20%
-improvement compared to the leading standard, antiSMASH</a>. This approach is
-suited for identifying drug lead-producing gene clusters that were previously overlooked, 
-such as the neuroactive psilocybin synthesis cluster.
-CLOCI predictions are more suitable for biomanufacturing and bioprospecting
+that underly the synthesis of microbial natural products. CLOCI predictions are more suitable for biomanufacturing and bioprospecting
 because the clusters are detected with <a
 href="https://github.com/xonq/cloci/blob/master/etc/boundaries.png">0 median extraneous and missing
-genes</a>, leading to higher quality heterologous expression predictions. This is
+genes</a>, generating high quality predictions for heterologous expression and bioengineering. This is
 in stark contrast to the standard approach, antiSMASH, which by mean 
 predicts clusters as double their size, thereby convoluting downstream
-experimentation. <a
+experimentation. CLOCI performs
+the best in recovering reference biosynthetic gene clusters, with a <a
+href="https://github.com/xonq/cloci/blob/master/etc/recovery.png">15%
+improvement compared to the leading standard, antiSMASH</a>. The CLOCI approach is
+suited for identifying drug lead-producing gene clusters that were previously overlooked, 
+such as the neuroactive psilocybin synthesis cluster. <a
 href="https://www.biorxiv.org/content/10.1101/2023.06.20.545441v1">Checkout the
 manuscript.</a>
 
