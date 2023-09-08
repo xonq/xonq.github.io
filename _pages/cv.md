@@ -49,32 +49,48 @@ antimicrobial compounds produced by fungi\
 <br />
 
 ### PUBLICATIONS
-<sub><sup><b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
+<sub><sup>1. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
 gene clusters with generalized detection. bioRxiv (preprint)
 
-<sup><sup>Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., 
+<sup><sup>2. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., 
 Faith, S., Slot, J. C., Hand, F. P., Goss, E., Jacobs, J. M. (2023). Live tracking of 
 a plant pathogen outbreak reveals rapid and successive, multidecade episome reduction. 
 bioRxiv (preprint).
 
-<sub><sup>Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., <b><b>Konkel, Z.</b></b>, Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
+<sub><sup>3. Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., <b><b>Konkel, Z.</b></b>, Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
 
-<sub><sup>Scott, K., <b>Konkel, Z.</b>, Gluck-Thaler, E., Valero David, G. E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte genomes support greater metabolic gene cluster diversity compared with non-endophytes in Trichoderma. BioRxiv (In review)
+<sub><sup>4. Scott, K., <b>Konkel, Z.</b>, Gluck-Thaler, E., Valero David, G. E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte genomes support greater metabolic gene cluster diversity compared with non-endophytes in Trichoderma. BioRxiv (In review)
 
-<sub><sup>Valero David, G. E., Emanuel, I. B., <b>Konkel, Z.</b> M., Martin, D., Slot, J. C. (2022). First report of Colletotrichum sansevieriae causing Anthracnose of Snake Plant (Dracaena trifasciata) in Ohio and its Draft Genome. Plant Disease
+<sub><sup>5. Valero David, G. E., Emanuel, I. B., <b>Konkel, Z.</b> M., Martin, D., Slot, J. C. (2022). First report of Colletotrichum sansevieriae causing Anthracnose of Snake Plant (Dracaena trifasciata) in Ohio and its Draft Genome. Plant Disease
 
-<sub><sup>Emanuel, I. B., <b>Konkel, Z.</b> M., Scott, K. L., Valero David, G. E., Slot, J. C., Hand, F. P. (2022). Whole-Genome Sequence Data for the Holotype Strain of Diaporthe ilicicola, a Fungus Associated with Latent Fruit Rot in Deciduous Holly. Microbiology Resource Announcements
+<sub><sup>6. Emanuel, I. B., <b>Konkel, Z.</b> M., Scott, K. L., Valero David, G. E., Slot, J. C., Hand, F. P. (2022). Whole-Genome Sequence Data for the Holotype Strain of Diaporthe ilicicola, a Fungus Associated with Latent Fruit Rot in Deciduous Holly. Microbiology Resource Announcements
 
-<sub><sup>Gluck-Thaler, E., Ralston, T., <b>Konkel, Z.</b> M., Ocampos, C. G., Ganeshan, V. D., Dorrance, A. E., Niblack, T. L., Wood, C. W., Slot, J. C., Lopez-Nicora, H. D., Vogan, A. A. (2022). Giant Starship Elements Mobilize Accessory Genes in Fungal Genomes. Molecular Biology and Evolution
+<sub><sup>7. Gluck-Thaler, E., Ralston, T., <b>Konkel, Z.</b> M., Ocampos, C. G., Ganeshan, V. D., Dorrance, A. E., Niblack, T. L., Wood, C. W., Slot, J. C., Lopez-Nicora, H. D., Vogan, A. A. (2022). Giant Starship Elements Mobilize Accessory Genes in Fungal Genomes. Molecular Biology and Evolution
 
-<sub><sup>Franco, M. E. E., Wisecaver, J. H., Arnold, E. A., Ju, Y., Slot, J. C., Ahrendt, S., Moore, L. P., Eastman, K. E., Scott, K., <b>Konkel, Z.</b>, Mondo, S. J., Kuo, A., Hayes, R. D., Haridas, S., Andreopoulos, B., Riley, R., LaButti K., Pnagilinan J., Lipzen, A., Amirebrahimi, M., Yan, J., Adam, C., Keymanesh, K., Ng, V., Louie, K., Northen, T., Drula, E., Henrissat, B., Hsieh, H., Youens-Clark, K., Lutzoni, F., Miadlikowska, J., Eastwood, D. C., Hamelin, R. C., Grigoriev, I. V., U’Ren, J. M. (2022). Ecological generalism drives hyperdiversity of secondary metabolite gene cluster in xylarialean endophytes. New Phytologist
+<sub><sup>8. Franco, M. E. E., Wisecaver, J. H., Arnold, E. A., Ju, Y., Slot, J. C., Ahrendt, S., Moore, L. P., Eastman, K. E., Scott, K., <b>Konkel, Z.</b>, Mondo, S. J., Kuo, A., Hayes, R. D., Haridas, S., Andreopoulos, B., Riley, R., LaButti K., Pnagilinan J., Lipzen, A., Amirebrahimi, M., Yan, J., Adam, C., Keymanesh, K., Ng, V., Louie, K., Northen, T., Drula, E., Henrissat, B., Hsieh, H., Youens-Clark, K., Lutzoni, F., Miadlikowska, J., Eastwood, D. C., Hamelin, R. C., Grigoriev, I. V., U’Ren, J. M. (2022). Ecological generalism drives hyperdiversity of secondary metabolite gene cluster in xylarialean endophytes. New Phytologist
 
-<sub><sup><b>Konkel, Z.</b>, Scott, K., Slot, J. C. (2021). Draft Genome Sequence of the Termite-Associated “Cuckoo Fungus,” Athelia (Fibularhizoctonia) sp. TMB Strain TB5. Microbiology Resource Announcements
+<sub><sup>9. <b>Konkel, Z.</b>, Scott, K., Slot, J. C. (2021). Draft Genome Sequence of the Termite-Associated “Cuckoo Fungus,” Athelia (Fibularhizoctonia) sp. TMB Strain TB5. Microbiology Resource Announcements
 
-<sub><sup>Adpressa, D. A., Connolly, L. R., <b>Konkel, Z.</b> M., Neuhaus, G. F., Chang, X. L., Pierce, B. R., Smith, K. M., Freitag, M., Loesgen, S. (2019). A metabolomics-guided approach to discovery Fusarium graminearum metabolites after removal of a repressive histone modification. Fungal Genetics and Biology
+<sub><sup>10. Adpressa, D. A., Connolly, L. R., <b>Konkel, Z.</b> M., Neuhaus, G. F., Chang, X. L., Pierce, B. R., Smith, K. M., Freitag, M., Loesgen, S. (2019). A metabolomics-guided approach to discovery Fusarium graminearum metabolites after removal of a repressive histone modification. Fungal Genetics and Biology
 
 <br />
 
+## HIGHLIGHTED SKILLSETS
+#### Method (Citation)
+- Phylogenomics (1, 2, 3, 4, 5, 9)
+- Biosynthetic gene cluster identification/bioactive gene discovery (1, 3, 4,
+  8, 9)
+- RNA-seq and transcriptomic analysis (3)
+- Metabolomics and analytical method development (10)
+- Multi-omic analysis (3, 10)
+- Linux (1, 2, 3, 4, 5, 6, 7, 8, 9)
+- Python (1, 2, 3, 4, 5, 6, 7, 8, 9)
+- R (1, 3)
+- Eukaryote genome annotation (4, 5, 6, 8, 9)
+- Large-scale, automated comparative genomic analysis (1, 3, 4, 7)
+- Statistics (1, 4)
+
+<br />
 
 ## ACHIEVEMENTS & FUNDING
 &nbsp;&nbsp;Translational Plant Sciences Research Fellowship\
