@@ -61,7 +61,7 @@ PUBLICATIONS
 <a href="https://scholar.google.com/citations?user=fMdoXDMAAAAJ&hl=en&oi=ao">Google Scholar</a>
 : 1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)
 
-: 2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
+: 1. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
 gene clusters with generalized detection. bioRxiv (preprint)
 
 <sup><sup>3. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., 
