@@ -8,44 +8,45 @@ author_profile: false
 konkelzach@pm.me
 
 
-Education
+EDUCATION
 ---------
 
 PhD, Translational Plant Sciences: Evolutionary Genomics
-:    **2018-2023**: The Ohio State University
+:    **2018 - 2023: The Ohio State University**
 :    Dissertation: *On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*
 :    Translational Plant Sciences PhD Fellow
 :    Ohio Agricultural Research and Development Center Associate
 :    University Fellow
 
 BS Cum Laude, Biology: Ecology; Chemistry minor
-:    **2013-2017** Oregon State University		
+:    **2013 - 2017: Oregon State University**
 
 
-Experience
+EXPERIENCE
 ---------
 
-Computational biologist research fellow
-:    **2018-2023**: Dr. Jason Slot’s Fungal Evolutionary Genomics Lab
+Dr. Jason Slot's Fungal Evolutionary Genomics Lab
+:    **2018 - 2023: Computational Biologist Research Fellow**
 :    Evolution of fungal gene cluster architecture
 :    Biosynthetic gene cluster detection
 :    Secondary metabolism evolution and phylogenomics
 :    Mycology lecturer and teaching assistant
 :    Practical Computing for Biology lecturer and teaching assistant
 
-### Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
-Programming for Biology workshop selected teaching assistant
 
-### Cascadia Labs				Aug 2017 – Jan 2018
-Quality Control Chemist\
-&nbsp;&nbsp; Oregon (ORELAP) accredited analyte quantitation\
-&nbsp;&nbsp; LC-MS/MS, HPLC-UV, GC-MS, GC-FID\
+Cold Spring Harbor Laboratory
+:    **2022: Programming for Biology selected teaching assistant**
 
-### Dr. Sandra Loesgen’s Lab		Jun 2014 – Jun 2017
-Analytical Chemist: Natural Product Drug Discovery\
-&nbsp;&nbsp; Isolation and structure elucidation of
-antimicrobial compounds produced by fungi\
-&nbsp;&nbsp; LC-MS, HPLC-UV
+
+Cascadia Labs
+:    **2017 - 2018: Quality Control Analytical Chemist**
+:    Oregon (ORELAP) accredited quantitation
+:    LC-MS/MS, HPLC-UV, GC-MS, GC-FID analytical method development
+
+Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
+:    **2014 – 2017: Natural Product Drug Discovery Analytical Chemist**
+:    Isolation and structure elucidation of fungal-derived antimicrobial compounds
+:    LC-MS, HPLC-UV analytical method development
 
 <br />
 
@@ -63,7 +64,10 @@ bioRxiv (preprint).
 
 <sub><sup>4. Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., <b><b>Konkel, Z.</b></b>, Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
 
-<sub><sup>5. Scott, K., <b>Konkel, Z.</b>, Gluck-Thaler, E., Valero David, G. E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte genomes support greater metabolic gene cluster diversity compared with non-endophytes in Trichoderma. BioRxiv (In review)
+<sub><sup>5. Scott, K., <b>Konkel, Z.</b>, Gluck-Thaler, E., Valero David, G.
+E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte
+genomes support greater metabolic gene cluster diversity compared with
+non-endophytes in Trichoderma. PLoS ONE (Accepted)
 
 <sub><sup>6. Valero David, G. E., Emanuel, I. B., <b>Konkel, Z.</b> M., Martin, D., Slot, J. C. (2022). First report of Colletotrichum sansevieriae causing Anthracnose of Snake Plant (Dracaena trifasciata) in Ohio and its Draft Genome. Plant Disease
 
