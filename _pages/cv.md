@@ -1,27 +1,22 @@
 ---
-title: "Curriculum Vitae"
+title: "Zachary Konkel, PhD"
 layout: single
 permalink: /cv/
 author_profile: false
 ---
 
-ZACHARY KONKEL, PhD
-============
-
 konkelzach@pm.me
 
 
-EDUCATION
+Education
 ---------
 
-2018-2023
-:    **PhD, Translational Plant Sciences: Evolutionary Genomics**; The Ohio
-State University
-
-*Dissertation: On Molecular Symbiosis and the Evolution of Fungal Genome Architecture\
-Translational Plant Sciences PhD Fellow\
-Ohio Agricultural Research and Development Center Associate\
-University Fellow*
+PhD, Translational Plant Sciences: Evolutionary Genomics
+:    **2018-2023** The Ohio State University
+:    Dissertation: *On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*\
+:    Translational Plant Sciences PhD Fellow\
+:    Ohio Agricultural Research and Development Center Associate\
+:    University Fellow*
 
 #### Oregon State University		
 Sep 2013 – Jun 2017\
