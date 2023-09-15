@@ -22,6 +22,8 @@ BS Cum Laude, Biology: Ecology; Chemistry minor
 :    **2013 - 2017: Oregon State University**
 
 
+<br />
+
 EXPERIENCE
 ---------
 
@@ -47,14 +49,17 @@ Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
 :    **2014 – 2017: Natural Product Drug Discovery Analytical Chemist**
 :    Isolation and structure elucidation of fungal-derived antimicrobial compounds
 :    LC-MS, HPLC-UV analytical method development
+:    1-D and 2-D NMR structure elucidation
 
 <br />
 
-### PUBLICATIONS
-<sup><sup>1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An
+
+PUBLICATIONS
+---------
+: 1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An
 Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)
 
-<sub><sup>2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
+: 2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
 gene clusters with generalized detection. bioRxiv (preprint)
 
 <sup><sup>3. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., 
