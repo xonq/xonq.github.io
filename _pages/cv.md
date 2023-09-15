@@ -56,9 +56,9 @@ Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
 PUBLICATIONS
 ---------
 
-<font size="2">1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)</font>\
+<font size="2">1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)</font> 
 
-<font size="2">2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic gene clusters with generalized detection. bioRxiv (preprint)</font>\
+<font size="2">2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic gene clusters with generalized detection. bioRxiv (preprint)</font> 
 
 <font size="2">3. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., Faith, S., Slot, J. C., Hand, F. P., Goss, E., Jacobs, J. M. (2023). Live tracking of a plant pathogen outbreak reveals rapid and successive, multidecade episome reduction. bioRxiv (preprint).</font>
 
@@ -70,7 +70,7 @@ PUBLICATIONS
 
 <font size="2">7. Emanuel, I. B., <b>Konkel, Z.</b> M., Scott, K. L., Valero David, G. E., Slot, J. C., Hand, F. P. (2022). Whole-Genome Sequence Data for the Holotype Strain of Diaporthe ilicicola, a Fungus Associated with Latent Fruit Rot in Deciduous Holly. Microbiology Resource Announcements</font>
 
-<sub><sup>8. Gluck-Thaler, E., Ralston, T., <b>Konkel, Z.</b> M., Ocampos, C. G., Ganeshan, V. D., Dorrance, A. E., Niblack, T. L., Wood, C. W., Slot, J. C., Lopez-Nicora, H. D., Vogan, A. A. (2022). Giant Starship Elements Mobilize Accessory Genes in Fungal Genomes. Molecular Biology and Evolution
+<font size="2">8. Gluck-Thaler, E., Ralston, T., <b>Konkel, Z.</b> M., Ocampos, C. G., Ganeshan, V. D., Dorrance, A. E., Niblack, T. L., Wood, C. W., Slot, J. C., Lopez-Nicora, H. D., Vogan, A. A. (2022). Giant Starship Elements Mobilize Accessory Genes in Fungal Genomes. Molecular Biology and Evolution</font>
 
 <sub><sup>9. Franco, M. E. E., Wisecaver, J. H., Arnold, E. A., Ju, Y., Slot, J. C., Ahrendt, S., Moore, L. P., Eastman, K. E., Scott, K., <b>Konkel, Z.</b>, Mondo, S. J., Kuo, A., Hayes, R. D., Haridas, S., Andreopoulos, B., Riley, R., LaButti K., Pnagilinan J., Lipzen, A., Amirebrahimi, M., Yan, J., Adam, C., Keymanesh, K., Ng, V., Louie, K., Northen, T., Drula, E., Henrissat, B., Hsieh, H., Youens-Clark, K., Lutzoni, F., Miadlikowska, J., Eastwood, D. C., Hamelin, R. C., Grigoriev, I. V., U’Ren, J. M. (2022). Ecological generalism drives hyperdiversity of secondary metabolite gene cluster in xylarialean endophytes. New Phytologist
 
