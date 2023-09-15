@@ -36,10 +36,8 @@ Dr. Jason Slot's Fungal Evolutionary Genomics Lab
 :    Mycology lecturer and teaching assistant
 :    Practical Computing for Biology lecturer and teaching assistant
 
-
 Cold Spring Harbor Laboratory
 :    **2022: Programming for Biology selected teaching assistant**
-
 
 Cascadia Labs
 :    **2017 - 2018: Quality Control Analytical Chemist**
@@ -58,8 +56,7 @@ Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
 PUBLICATIONS
 ---------
 
-<a href="https://scholar.google.com/citations?user=fMdoXDMAAAAJ&hl=en&oi=ao">Google Scholar</a>
-: 1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)
+<font size="10">1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)</font>
 
 : 1. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
 gene clusters with generalized detection. bioRxiv (preprint)
