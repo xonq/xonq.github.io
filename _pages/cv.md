@@ -58,14 +58,11 @@ PUBLICATIONS
 
 <font size="2">1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)</font>
 
-<font size="2">1. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic gene clusters with generalized detection. bioRxiv (preprint)</font>
+<font size="2">2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic gene clusters with generalized detection. bioRxiv (preprint)</font>
 
-<sup><sup>3. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., 
-Faith, S., Slot, J. C., Hand, F. P., Goss, E., Jacobs, J. M. (2023). Live tracking of 
-a plant pathogen outbreak reveals rapid and successive, multidecade episome reduction. 
-bioRxiv (preprint).
+<font size="2">3. Roman-Reyna, V., Sharma, A., Toth, H., <b><b>Konkel, Z.</b></b>, Omiotek, N., Murthy, S., Faith, S., Slot, J. C., Hand, F. P., Goss, E., Jacobs, J. M. (2023). Live tracking of a plant pathogen outbreak reveals rapid and successive, multidecade episome reduction. bioRxiv (preprint).</font>
 
-<sub><sup>4. Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., <b><b>Konkel, Z.</b></b>, Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences
+<font size="2">4. Sierra-Patev, S., Byoungnam, M., Naranjo-Ortiz, M., Looney, B., <b><b>Konkel, Z.</b></b>, Slot, J. C., Sakamoto, Y., Steenwyk, J. L., Rokas, A., Carro, J., Camarero, S., Ferreira, P., Molpeceres, G., Ruiz-Duenas, F. J., Serrano, A., Henrissat, B., Drula, E., Hughes, K. W., Mata, J. L., Ishikawa, N. K., Vargas-Isla, R., Ushijima, S., Smith, C. A., Donoghue, J., Ahrendt, S., Andreopoulos, W., He, G., LaButti, K., Lipzen, A., Ng, V., Riley, R., Sandor, L., Barry, K., Martinez, A. T., Xiao, Y., Gibbons, J. G., Terashima, K., Grigoriev, I. V., Hibbett, D. (2023). A global phylogenomic analysis of the shiitake genus Lentinula. Proceedings of the National Academy of Sciences</font>
 
 <sub><sup>5. Scott, K., <b>Konkel, Z.</b>, Gluck-Thaler, E., Valero David, G.
 E., Simmt, C. F., Grootmyers, D., Chaverri, P., Slot, J. C. (2023). Endophyte
