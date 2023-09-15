@@ -12,25 +12,26 @@ Education
 ---------
 
 PhD, Translational Plant Sciences: Evolutionary Genomics
-:    **2018-2023** The Ohio State University
-:    Dissertation: *On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*\
-:    Translational Plant Sciences PhD Fellow\
-:    Ohio Agricultural Research and Development Center Associate\
-:    University Fellow*
+:    **2018-2023**: The Ohio State University
+:    Dissertation: *On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*
+:    Translational Plant Sciences PhD Fellow
+:    Ohio Agricultural Research and Development Center Associate
+:    University Fellow
 
-#### Oregon State University		
-Sep 2013 – Jun 2017\
-BS Biology: Ecology focus; Chemistry minor; Cum Laude
+BS Cum Laude, Biology: Ecology; Chemistry minor
+:    **2013-2017** Oregon State University		
 
 
-## EXPERIENCE
-### Dr. Jason Slot’s Lab			Aug 2018 – Aug 2023
-Computational Biologist: Fungal evolutionary biologist\
-&nbsp;&nbsp; Evolution of fungal gene cluster architecture\
-&nbsp;&nbsp; Biosynthetic gene cluster detection\
-&nbsp;&nbsp; Secondary metabolism evolution and phylogenomics\
-&nbsp;&nbsp; Mycology lecturer and teaching assistant\
-&nbsp;&nbsp; Practical Computing for Biology lecturer and teaching assistant
+Experience
+---------
+
+Computational biologist research fellow
+:    **2018-2023**: Dr. Jason Slot’s Fungal Evolutionary Genomics Lab
+:    Evolution of fungal gene cluster architecture
+:    Biosynthetic gene cluster detection
+:    Secondary metabolism evolution and phylogenomics
+:    Mycology lecturer and teaching assistant
+:    Practical Computing for Biology lecturer and teaching assistant
 
 ### Cold Spring Harbor Laboratory	Oct 2022 – Nov 2022
 Programming for Biology workshop selected teaching assistant
