@@ -18,8 +18,9 @@ PhD, Translational Plant Sciences: Evolutionary Genomics
 :    Ohio Agricultural Research and Development Center Associate
 :    University Fellow
 
-BS Cum Laude, Biology: Ecology; Chemistry minor
+BS, Biology: Ecology; Chemistry minor
 :    **2013 - 2017: Oregon State University**
+:    Cum laude
 
 
 <br />
