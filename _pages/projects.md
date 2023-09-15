@@ -36,8 +36,9 @@ Mycotools increases the scale of all genomics data by
 automatically assimilating a local database of 100,000s of publicly- and locally-available microbial genomes. This approach standardizes 
 genomics by curating notoriously inconsistent formats, 
 and streamlines collaboration by implementing a singular, easily-disseminated
-file format. Mycotools software suite includes modules for automating
-routine-complex comparative genomics, which form the basis for phylogenomic and
+file format that is used for analysis input. Mycotools software suite includes 
+modules for automating routine-complex comparative genomics, which form the basis for phylogenomic and
 gene cluster evolutionary analysis pipelines. Mycotools is currently optimized for fungi, though prokaryotes are compatible and the framework is taxonomy-agnostic. <a
 href="https://github.com/xonq/mycotools/blob/master/USAGE.md">Check
-out the usage guide.</a>
+out the usage guide.</a> and <a href="https://www.biorxiv.org/content/10.1101/2023.09.08.556886v1">preprint</a>
+for more information.
