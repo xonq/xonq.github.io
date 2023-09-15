@@ -58,6 +58,7 @@ Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
 PUBLICATIONS
 ---------
 
+  
 :    1. <b><b>Konkel, Z.</b></b>, Slot, J. C. (2023). Mycotools: An Automated and Scalable Platform for Comparative Genomics. bioRxiv (preprint)
 
 :    2. <b><b>Konkel, Z.</b></b>, Kubatko, K., Slot, J. C. (2023). CLOCI: Unveiling cryptic
