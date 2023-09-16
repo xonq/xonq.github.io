@@ -73,20 +73,22 @@ generalism drives hyperdiversity of secondary metabolite gene cluster in xylaria
 
 <br />
 
-## HIGHLIGHTED SKILLSETS
-#### Method (Citation)
-- Phylogenomics (1, 2, 3, 4, 5, 6, 9)
-- Biosynthetic gene cluster identification/bioactive gene discovery (1, 2, 4, 5,
+HIGHLIGHTED METHODOLOGICAL EXPERTISE
+-------
+
+Method (Citation)
+:   Phylogenomics (1, 2, 3, 4, 5, 6, 9)
+:   Biosynthetic gene cluster identification/bioactive gene discovery (1, 2, 4, 5,
   9, 10)
-- RNA-seq and transcriptomic analysis (4)
-- Metabolomics and analytical method development (11)
-- Multi-omic analysis (4, 11)
-- Linux (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-- Python (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-- R (2, 4)
-- Eukaryote genome annotation (5, 6, 7, 9, 10)
-- Large-scale, automated comparative genomic analysis (1, 2, 4, 5, 8)
-- Statistics (2, 5)
+:   RNA-seq and transcriptomic analysis (4)
+:   Metabolomics and analytical method development (11)
+:   Multi-omic analysis (4, 11)
+:   Linux (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+:   Python (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+:   R (2, 4)
+:   Eukaryote genome annotation (5, 6, 7, 9, 10)
+:   Large-scale, automated comparative genomic analysis (1, 2, 4, 5, 8)
+:   Statistics (2, 5)
 
 <br />
 
