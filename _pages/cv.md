@@ -127,7 +127,9 @@ Robert’s Scholarship
 
 <br />
 
-## PRESENTATIONS
+PRESENTATIONS
+-------
+
 <sub><sup><b>Konkel, Z.</b>, Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
 
 <sub><sup><b>Konkel, Z.</b>, Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
