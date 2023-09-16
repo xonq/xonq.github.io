@@ -73,7 +73,7 @@ generalism drives hyperdiversity of secondary metabolite gene cluster in xylaria
 
 <br />
 
-HIGHLIGHTED METHODOLOGICAL EXPERTISE
+HIGHLIGHTED SKILLSETS 
 -------
 
 Method (Citation)
