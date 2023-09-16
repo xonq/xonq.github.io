@@ -92,44 +92,38 @@ Method (Citation)
 
 <br />
 
-## ACHIEVEMENTS & FUNDING
-&nbsp;&nbsp;Translational Plant Sciences Research Fellowship\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Center for Applied Plant Sciences
-2020-2023</sup></sub>
+ACHIEVEMENTS & FUNDING
+-------
 
-&nbsp;&nbsp;Best Poster Award\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Gordon Research Conference – Fungal Genetics
-2022</sup></sub>
+Translational Plant Sciences Research Fellowship
+:    2020 - 2023: Center for Applied Plant Sciences
 
-&nbsp;&nbsp;Regeneron Scholarship\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Cold Spring Harbor Laboratory – Programming
-for Biology Workshop 2019</sup></sub>
+Best Poster Award
+:    2022: Gordon Research Conference – Fungal Genetics
 
-&nbsp;&nbsp;Mentor-Student Travel Award\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Mycological Society of America – 2019 Annual
-MSA Conference 2019</sup></sub>
+Director’s Associateship Award
+:    2019: Ohio Agricultural Research and Development Center
 
-&nbsp;&nbsp;Director’s Associateship Award\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Ohio Agricultural Research and Development Center
-2019</sup></sub>
+Regeneron Scholarship
+:    2019: Cold Spring Harbor Laboratory – Programming for Biology Workshop 2019
 
-&nbsp;&nbsp;University Fellowship\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>The Ohio State University 2018</sup></sub>
+Mentor-Student Travel Award
+:    2019: Mycological Society of America
 
-&nbsp;&nbsp;Best Oral Presentation\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University – Microbiology
-Colloquium 2017</sup></sub>
+University Fellowship
+:    2018: The Ohio State University 2018
 
-&nbsp;&nbsp;URISC Grant\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University 2016</sup></sub>
+Best Oral Presentation
+:    2017: Oregon State University – Microbiology Colloquium
 
-&nbsp;&nbsp;Doc Gilfillan Award\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon State University – College of Science
-2016</sup></sub>
+URISC Grant
+:    2016: Oregon State University
 
-&nbsp;&nbsp;Robert’s Scholarship\
-&nbsp;&nbsp;&nbsp;&nbsp; <sub><sup>Oregon Scholarship Access Commission
-2015-2017</sup></sub>
+Doc Gilfillan Award
+:    2016: Oregon State University – College of Science
+
+Robert’s Scholarship
+:    2015-2017: Oregon Scholarship Access Commission
 
 <br />
 
