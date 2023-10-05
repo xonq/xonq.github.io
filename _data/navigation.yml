@@ -1,5 +1,7 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "Consultation"
+    url: /consultation/
   - title: "Résumé"
     url: /cv/
