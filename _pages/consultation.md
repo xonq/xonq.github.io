@@ -1,7 +1,7 @@
 ---
 title: "Consultation"
 layout: single
-permalink: /projects/
+permalink: /consultation/
 author_profile: true
 ---
 
