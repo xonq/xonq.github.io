@@ -16,7 +16,6 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
 <details>
 <summary>Genomics</summary>
 <br>
-    <ul>
     <li>Phylogenetics/phylogenomics</li>
     <li>Eukaryote genome assembly/annotation</li>
     <li>Long-read and short-read Nanopore, PacBio, and Illumina data</li>
@@ -25,18 +24,14 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>DNA extraction and optimization</li>
    <li>Mycotools</li>
    <li>CLOCI</li>
-    </ul>
-
 </details>
 <details>
 <summary>Transcriptomics</summary>
 <br>
-   <ul>
     <li>General RNAseq analysis</li>
     <li>Gene coexpression network analysis</li>
     <li>Transcriptome assembly and genome annotation</li>
     <li>Single-cell RNAseq</li>
-   </ul>
 </details>
 <details>
 <summary>Metabolomics</summary>
@@ -44,7 +39,6 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Python analysis of LCMS/MS data (Agilent, Waters, Thermo-Fisher)</li>
    <li>Quantitative analysis</li>
    <li>General untargeted QToF-derived metabolomics</li>
-   </ul>
 </details>
 
 
@@ -60,7 +54,5 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Slurm</li>
    <li>Torque</li>
    <li>Containers (Docker, Singularity)</li>
-   </ul>
-</ul>
 </details>
 
