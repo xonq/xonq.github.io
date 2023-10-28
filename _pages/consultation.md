@@ -25,6 +25,7 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Mycotools</li>
    <li>CLOCI</li>
 </details>
+
 <details>
 <summary>Transcriptomics</summary>
 <br>
@@ -33,6 +34,7 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
     <li>Transcriptome assembly and genome annotation</li>
     <li>Single-cell RNAseq</li>
 </details>
+
 <details>
 <summary>Metabolomics</summary>
    <li>LCMS/MS and GCMS/MS method development</li>
@@ -40,7 +42,6 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Quantitative analysis</li>
    <li>General untargeted QToF-derived metabolomics</li>
 </details>
-
 
 <details>
 <summary>Computation</summary>
@@ -55,4 +56,3 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Torque</li>
    <li>Containers (Docker, Singularity)</li>
 </details>
-
