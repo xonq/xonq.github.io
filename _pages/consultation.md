@@ -16,15 +16,19 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
 <details>
 <summary>Skillsets and methodologies</summary>
 <br>
-- Genomics
-    - Phylogenetics/phylogenomics
-    - Eukaryote genome assembly/annotation
+
+<ul>
+  <li>Genomics</li>
+    <ul>
+    <li>Phylogenetics/phylogenomics</li>
+    <li>Eukaryote genome assembly/annotation</li>
     - Long-read and short-read Nanopore, PacBio, and Illumina data
     - Large-scale database infrastructure and automation
     - Variant calling
     - DNA extraction and optimization
     - Mycotools
     - CLOCI
+    </ul>
 
 - Transcriptomics
     - General RNAseq analysis
@@ -47,5 +51,6 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
     - AWS (Amazon web services)
     - Slurm
     - Torque
+</ul>
 </details>
 
