@@ -22,35 +22,41 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
     <ul>
     <li>Phylogenetics/phylogenomics</li>
     <li>Eukaryote genome assembly/annotation</li>
-    - Long-read and short-read Nanopore, PacBio, and Illumina data
-    - Large-scale database infrastructure and automation
-    - Variant calling
-    - DNA extraction and optimization
-    - Mycotools
-    - CLOCI
+    <li>Long-read and short-read Nanopore, PacBio, and Illumina data</li>
+   <li>Large-scale database infrastructure and automation</li>
+   <li>Variant calling</li>
+   <li>DNA extraction and optimization</li>
+   <li>Mycotools</li>
+   <li>CLOCI</li>
     </ul>
 
-- Transcriptomics
-    - General RNAseq analysis
-    - Gene coexpression network analysis
-    - Transcriptome assembly and genome annotation
-    - Single-cell RNAseq
+  <li>Transcriptomics</li>
+   <ul>
+    <li>General RNAseq analysis</li>
+    <li>Gene coexpression network analysis</li>
+    <li>Transcriptome assembly and genome annotation</li>
+    <li>Single-cell RNAseq</li>
+   </ul>
 
-- Metabolomics
-    - LCMS/MS and GCMS/MS method development
-    - Python analysis of LCMS/MS data (Agilent, Waters, Thermo-Fisher)
-    - Quantitative analysis
-    - General untargeted QToF-derived metabolomics
+  <li>Metabolomics</li>
+   <ul>
+   <li>LCMS/MS and GCMS/MS method development</li>
+   <li>Python analysis of LCMS/MS data (Agilent, Waters, Thermo-Fisher)</li>
+   <li>Quantitative analysis</li>
+   <li>General untargeted QToF-derived metabolomics</li>
+   </ul>
 
-- Computation
-    - Linux
-    - Python
-    - Bash
-    - R
-    - HPC (High performance computing)
-    - AWS (Amazon web services)
-    - Slurm
-    - Torque
+ <li>Computation</li>
+   <ul>
+   <li>Linux</li>
+   <li>Python</li>
+   <li>Bash</li>
+   <li>R</li>
+   <li>HPC (High performance computing)</li>
+   <li>AWS (Amazon web services)</li>
+   <li>Slurm</li>
+   <li>Torque</li>
+   </ul>
 </ul>
 </details>
 
