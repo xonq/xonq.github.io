@@ -54,7 +54,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/mycomics.png"
+logo: "/assets/images/mycomics2.png"
 
 author:
   name   : "Zachary Konkel, PhD"
