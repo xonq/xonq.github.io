@@ -14,11 +14,8 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
 
 
 <details>
-<summary>Skillsets and methodologies</summary>
+<summary>Genomics</summary>
 <br>
-
-<ul>
-  <li>Genomics</li>
     <ul>
     <li>Phylogenetics/phylogenomics</li>
     <li>Eukaryote genome assembly/annotation</li>
@@ -30,24 +27,30 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>CLOCI</li>
     </ul>
 
-  <li>Transcriptomics</li>
+</details>
+<details>
+<summary>Transcriptomics</summary>
+<br>
    <ul>
     <li>General RNAseq analysis</li>
     <li>Gene coexpression network analysis</li>
     <li>Transcriptome assembly and genome annotation</li>
     <li>Single-cell RNAseq</li>
    </ul>
-
-  <li>Metabolomics</li>
-   <ul>
+</details>
+<details>
+<summary>Metabolomics</summary>
    <li>LCMS/MS and GCMS/MS method development</li>
    <li>Python analysis of LCMS/MS data (Agilent, Waters, Thermo-Fisher)</li>
    <li>Quantitative analysis</li>
    <li>General untargeted QToF-derived metabolomics</li>
    </ul>
+</details>
 
- <li>Computation</li>
-   <ul>
+
+<details>
+<summary>Computation</summary>
+<br>
    <li>Linux</li>
    <li>Python</li>
    <li>Bash</li>
@@ -56,6 +59,7 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>AWS (Amazon web services)</li>
    <li>Slurm</li>
    <li>Torque</li>
+   <li>Containers (Docker, Singularity)</li>
    </ul>
 </ul>
 </details>
