@@ -24,6 +24,7 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>DNA extraction and optimization</li>
    <li>Mycotools</li>
    <li>CLOCI</li>
+<br>
 </details>
 
 <details>
@@ -33,14 +34,17 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
     <li>Gene coexpression network analysis</li>
     <li>Transcriptome assembly and genome annotation</li>
     <li>Single-cell RNAseq</li>
+<br>
 </details>
 
 <details>
 <summary>Metabolomics</summary>
+<br>
    <li>LCMS/MS and GCMS/MS method development</li>
    <li>Python analysis of LCMS/MS data (Agilent, Waters, Thermo-Fisher)</li>
    <li>Quantitative analysis</li>
    <li>General untargeted QToF-derived metabolomics</li>
+<br>
 </details>
 
 <details>
@@ -55,4 +59,15 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
    <li>Slurm</li>
    <li>Torque</li>
    <li>Containers (Docker, Singularity)</li>
+<br>
+</details>
+
+<details>
+<summary>Fungal (Mycology) outreach</summary>
+<br>
+    <li>Mycology lecturer and teaching assistant</li>
+    <li>Mushroom identification and information</li>
+    <li>Cultivation and maintenance of an multiphylum culture library</li>
+    <li>Training in identification</li>
+<br>
 </details>
