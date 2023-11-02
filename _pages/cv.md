@@ -28,6 +28,12 @@ BS, Biology: Ecology; Chemistry minor
 EXPERIENCE
 ---------
 
+Dr. Jonathan Jacob's Emerging Infectious Disease Ecology Lab
+:    **2023 - Now: Postdoctoral Researcher**
+:    Investigating how transposon-mediated gene loss influences genome
+evolution, host-switching, and changing ecological niches
+:    Bacterial phylogenomics
+
 Dr. Jason Slot's Fungal Evolutionary Genomics Lab
 :    **2018 - 2023: Computational Biologist Research Fellow**
 :    Evolution of fungal gene cluster architecture
@@ -48,7 +54,6 @@ Dr. Sandra Loesgen’s Natural Product Drug Discovery Lab
 :    **2014 – 2017: Natural Product Drug Discovery Analytical Chemist**
 :    Isolation and structure elucidation of fungal-derived antimicrobial compounds
 :    LC-MS, HPLC-UV analytical method development
-:    1-D and 2-D NMR structure elucidation
 
 <br />
 
@@ -130,12 +135,50 @@ Robert’s Scholarship
 PRESENTATIONS
 -------
 
-<sub><sup><b>Konkel, Z.</b>, Slot, J. C. (Invited oral, 2023). Unveiling cryptic gene clusters. University of Madison-Wisconsin; Fungal Supergroup Seminar
+<sub><sup><b>2023</b>
 
-<sub><sup><b>Konkel, Z.</b>, Slot, J. C. (Poster, 2022). Unveiling the deluge of Basidiomycete gene clusters. Gordon Research Conference Fungal Genetics; Asilomar Fungal Genetics Conference
+<sub><sup>Fungal Supergroup Seminar - University of Madison-Wisconsin [Talk]
 
-<sub><sup><b>Konkel, Z.</b>, Slot, J. C. (2019). Structure-guided targeting of psilocybin gene homolog metabolites: A novel autonomous approach. Ohio Mass Spectrometry and Metabolomics Symposium.
+<br />
 
-<sub><sup><b>Konkel, Z.</b>, Scott, K., Slot, J. C. (Poster, 2019). Genomic-guided metabolomic investigation of Atheliaceae psilocybin gene homologs. Mycological Society of America Conference
+<sub><sup><b>2022</b>
 
-<sub><sup><b>Konkel, Z.</b>, Adpressa, D. A., Loesgen, S. (2017). Drugs from dirt: antibiotic leads from an Oregonian Aspergillus sp. Northwest Regional Meeting of the American Chemical Society; Volcano Conference; Celebrating Undergraduate Excellence
+<sub><sup>Gordon Research Conference Fungal Cellular and Molecular Biology*
+[Poster]
+
+<sub><sup>Asilomar Fungal Genetics Conference [Poster]
+
+<sub><sup>North Central Coordinating Committee Workshop [Talk]
+
+<br />
+
+<sub><sup><b>2019</b>
+
+<sub><sup>Center for Applied Plant Sciences Seminar - The Ohio State University
+[Talk]
+
+<sub><sup>Ohio Mass Spectrometry and Metabolomics Symposium [Talk]
+
+<sub><sup>Franklinton Fridays Halloween Seminar [Talk]
+
+<sub><sup>Mycological Society of America Conference [Poster]
+
+<br />
+
+<sub><sup><b>2017</b>
+
+<sub><sup>Northwest Regional Meeting of the American Chemical Society
+(declined) [Poster]
+
+<sub><sup>Volcano Conference [Poster]
+
+<sub><sup>Microbiology Colloquium - Oregon State University* [Talk]
+
+<sub><sup>Celebrating Undergraduate Excellence Seminar - Oregon State
+University [Talk]
+
+<sub><sup>Hatfield Marine Science Center Research Symposium [Poster]
+
+<br />
+
+* Best presentation award
