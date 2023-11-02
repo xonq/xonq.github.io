@@ -135,50 +135,56 @@ Robert’s Scholarship
 PRESENTATIONS
 -------
 
-<sub><sup><b>2023</b>
+<b>2023</b>
 
-<sub><sup>Fungal Supergroup Seminar - University of Madison-Wisconsin [Talk]
+Fungal Supergroup Seminar - University of Madison-Wisconsin [Talk]
 
 <br />
 
-<sub><sup><b>2022</b>
+<b>2022</b>
 
-<sub><sup>Gordon Research Conference Fungal Cellular and Molecular Biology*
+Gordon Research Conference Fungal Cellular and Molecular Biology*
 [Poster]
 
-<sub><sup>Asilomar Fungal Genetics Conference [Poster]
+Asilomar Fungal Genetics Conference [Poster]
 
-<sub><sup>North Central Coordinating Committee Workshop [Talk]
+North Central Coordinating Committee Workshop [Talk]
 
 <br />
 
-<sub><sup><b>2019</b>
+<b>2019</b>
 
-<sub><sup>Center for Applied Plant Sciences Seminar - The Ohio State University
+Center for Applied Plant Sciences Seminar - The Ohio State University
 [Talk]
 
-<sub><sup>Ohio Mass Spectrometry and Metabolomics Symposium [Talk]
+Ohio Mass Spectrometry and Metabolomics Symposium [Talk]
 
-<sub><sup>Franklinton Fridays Halloween Seminar [Talk]
+Franklinton Fridays Halloween Seminar [Talk]
 
-<sub><sup>Mycological Society of America Conference [Poster]
+Mycological Society of America Conference [Poster]
 
 <br />
 
-<sub><sup><b>2017</b>
+<b>2017</b>
 
-<sub><sup>Northwest Regional Meeting of the American Chemical Society
+Northwest Regional Meeting of the American Chemical Society
 (declined) [Poster]
 
-<sub><sup>Volcano Conference [Poster]
+Volcano Conference [Poster]
 
-<sub><sup>Microbiology Colloquium - Oregon State University* [Talk]
+Microbiology Colloquium - Oregon State University* [Talk]
 
-<sub><sup>Celebrating Undergraduate Excellence Seminar - Oregon State
+Celebrating Undergraduate Excellence Seminar - Oregon State
 University [Talk]
 
-<sub><sup>Hatfield Marine Science Center Research Symposium [Poster]
+Hatfield Marine Science Center Research Symposium [Poster]
 
 <br />
 
 * Best presentation award
+
+<br />
+
+Teaching & Mentorship Experience
+-------
+
