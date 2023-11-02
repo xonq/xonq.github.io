@@ -181,7 +181,7 @@ Hatfield Marine Science Center Research Symposium [Poster]
 
 <br />
 
-* Best presentation award
+\* Best presentation award
 
 <br />
 
