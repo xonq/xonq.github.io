@@ -13,17 +13,16 @@ skills relevant to my expertise.
 Please email konkelzach@pm.me for more information, meeting, and contracting.
 
 
+General expertise:
 <details>
 <summary>Genomics</summary>
 <br>
     <li>Phylogenetics/phylogenomics</li>
-    <li>Eukaryote genome assembly/annotation</li>
+    <li>Eukaryote (fungal) & prokaryote genome assembly/annotation</li>
     <li>Long-read and short-read Nanopore, PacBio, and Illumina data</li>
    <li>Large-scale database infrastructure and automation</li>
    <li>Variant calling</li>
    <li>DNA extraction and optimization</li>
-   <li>Mycotools</li>
-   <li>CLOCI</li>
 <br>
 </details>
 
@@ -65,7 +64,8 @@ Please email konkelzach@pm.me for more information, meeting, and contracting.
 <details>
 <summary>Fungal (Mycology) outreach</summary>
 <br>
-    <li>Mycology lecturer and teaching assistant</li>
+    <li>Lecturing</li>
+    <li>Seminars</li>
     <li>Mushroom identification and information</li>
     <li>Cultivation and maintenance of an multiphylum culture library</li>
     <li>Training in identification</li>
