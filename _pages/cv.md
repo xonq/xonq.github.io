@@ -178,6 +178,18 @@ Hatfield Marine Science Center Research Symposium
 
 <br />
 
-Teaching & Mentorship Experience
+Teaching Experience
 -------
+
+Programming for Biology Workshop
+:    2022: Cold Spring Harbor Laboratory
+
+Emerging Fungal Pathogens
+:    2022: The Ohio State University
+
+Practical Computing for Biology
+:    2021: The Ohio State University
+
+Mycology
+:    2018 - 2019: The Ohio State University
 
