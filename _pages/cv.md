@@ -31,8 +31,7 @@ EXPERIENCE
 Dr. Jonathan Jacob's Emerging Infectious Disease Ecology Lab
 :    **2023 - Now: Postdoctoral Researcher**
 :    Investigating how transposon-mediated gene loss influences genome
-evolution, host-switching, and changing ecological niches
-:    Bacterial phylogenomics
+evolution, host-switching, and ecological niche switching.
 
 Dr. Jason Slot's Fungal Evolutionary Genomics Lab
 :    **2018 - 2023: Computational Biologist Research Fellow**
