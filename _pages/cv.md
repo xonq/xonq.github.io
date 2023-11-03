@@ -134,53 +134,47 @@ Robert’s Scholarship
 PRESENTATIONS
 -------
 
-<b>2023</b>
-
-Fungal Supergroup Seminar - University of Madison-Wisconsin [Talk]
-
-<br />
-
-<b>2022</b>
+Fungal Supergroup Seminar - University of Madison-Wisconsin
+:    2023: Talk
 
 Gordon Research Conference Fungal Cellular and Molecular Biology*
-[Poster]
+:    2022: Poster
 
-Asilomar Fungal Genetics Conference [Poster]
+Asilomar Fungal Genetics Conference
+:    2022: Poster
 
-North Central Coordinating Committee Workshop [Talk]
-
-<br />
-
-<b>2019</b>
+North Central Coordinating Committee Workshop
+:    2022: Talk
 
 Center for Applied Plant Sciences Seminar - The Ohio State University
-[Talk]
+:    2019: Talk
 
-Ohio Mass Spectrometry and Metabolomics Symposium [Talk]
+Ohio Mass Spectrometry and Metabolomics Symposium
+:    2019: Talk
 
-Franklinton Fridays Halloween Seminar [Talk]
+Franklinton Fridays Halloween Seminar
+:    2019: Talk
 
-Mycological Society of America Conference [Poster]
-
-<br />
-
-<b>2017</b>
+Mycological Society of America Conference
+:    2019: Poster
 
 Northwest Regional Meeting of the American Chemical Society
-(declined) [Poster]
+:    2017: Poster (declined)
 
-Volcano Conference [Poster]
+Volcano Conference
+:    2017: Poster
 
-Microbiology Colloquium - Oregon State University* [Talk]
+Microbiology Colloquium - Oregon State University*
+:    2017: Talk
 
-Celebrating Undergraduate Excellence Seminar - Oregon State
-University [Talk]
+Celebrating Undergraduate Excellence Seminar - Oregon State University
+:    2016: Talk
 
-Hatfield Marine Science Center Research Symposium [Poster]
+Hatfield Marine Science Center Research Symposium
+:    2016: Poster
 
 <br />
-
-\* Best presentation award
+<sup><sub>\* Best presentation award
 
 <br />
 
