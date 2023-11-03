@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "Software"
 layout: single
-permalink: /projects/
+permalink: /software/
 author_profile: true
 ---
 

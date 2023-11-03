@@ -1,7 +1,7 @@
 main:
-  - title: "Projects"
-    url: /projects/
+  - title: "Software"
+    url: /software/
   - title: "Consultation"
     url: /consultation/
-  - title: "Résumé"
+  - title: "CV"
     url: /cv/
