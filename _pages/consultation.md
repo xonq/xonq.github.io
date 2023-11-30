@@ -32,7 +32,6 @@ General expertise:
     <li>General RNAseq analysis</li>
     <li>Gene coexpression network analysis</li>
     <li>Transcriptome assembly and genome annotation</li>
-    <li>Single-cell RNAseq</li>
 <br>
 </details>
 
