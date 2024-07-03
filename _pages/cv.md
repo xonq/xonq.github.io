@@ -27,6 +27,9 @@ BS, Biology: Ecology; Chemistry minor
 
 EXPERIENCE
 ---------
+Ruby Bio, Inc.
+:   **2023 - Now: Bioinformatics and Genomics Science Consultant**
+:   Non-disclosure agreement in place
 
 Dr. Jonathan Jacob's Emerging Infectious Disease Ecology Lab
 :    **2023 - Now: Postdoctoral Researcher**
