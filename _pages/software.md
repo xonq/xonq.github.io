@@ -21,7 +21,7 @@ href="https://github.com/xonq/cloci/blob/master/etc/recovery.png">15%
 improvement compared to the leading standard, antiSMASH</a>. The CLOCI approach is
 suited for identifying drug lead-producing gene clusters that were previously overlooked, 
 such as the neuroactive psilocybin synthesis cluster. <a
-href="https://www.biorxiv.org/content/10.1101/2023.06.20.545441v1">Checkout the
+href="https://doi.org/10.1093/nar/gkae625">Checkout the
 manuscript.</a>
 
 <br /><br />
