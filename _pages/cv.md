@@ -137,6 +137,14 @@ Robert’s Scholarship
 PRESENTATIONS
 -------
 
+Emerging Infectious Plant Pathogen Ecology Symposium - The Ohio State
+University
+:    2024: Talk
+
+[Methods for Biological Analysis
+Workshop](https://www.youtube.com/watch?v=5FVbRDy-nBU&t=2897s) - University of Madison-Wisconsin
+:    2024: Workshop
+
 Fungal Supergroup Seminar - University of Madison-Wisconsin
 :    2023: Talk
 
