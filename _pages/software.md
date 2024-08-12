@@ -31,7 +31,9 @@ src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/mycotools.
 style="width:325px"/></a>
 Mycotools is a foundation for automating genomics research.
 Mycotools software suite includes 
-modules for automating routine-complex comparative genomics. Mycotools is currently optimized for fungi, though prokaryotes are compatible and the framework is taxonomy-agnostic. <a
-href="https://github.com/xonq/mycotools/blob/master/USAGE.md">Check
+modules for automating routine-complex comparative genomics. Mycotools was
+originally constructed for fungi, though its taxonomy-agnostic framework is now
+suitable for plants and prokaryotes. <a
+href="https://github.com/xonq/mycotools/wiki/USAGE.md">Check
 out the usage guide.</a> and <a href="https://www.biorxiv.org/content/10.1101/2023.09.08.556886v1">preprint</a>
 for more information.
