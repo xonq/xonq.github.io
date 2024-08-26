@@ -13,7 +13,7 @@ EDUCATION
 
 PhD, Translational Plant Sciences: Evolutionary Genomics
 :    **2018 - 2023: The Ohio State University**
-:    Dissertation: *On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*
+:    Dissertation: [*On Molecular Symbiosis and the Evolution of Fungal Genome Architecture*](http://rave.ohiolink.edu/etdc/view?acc_num=osu1692587815963288)
 :    Translational Plant Sciences PhD Fellow
 :    Ohio Agricultural Research and Development Center Associate
 :    University Fellow
