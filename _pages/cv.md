@@ -28,18 +28,23 @@ BS, Biology: Ecology; Chemistry minor
 EXPERIENCE
 ---------
 Ruby Bio, Inc.
-:   **2023 - Now: Bioinformatics and Genomics Science Consultant**
+:   **2023 - 2024: Bioinformatics and Genomics Science Consultant**
+:   Integrative -omics (metabolomics, transcriptomics, and genomics) to
+identify and engineer expression of biosynthetic pathways
 
 Dr. Jonathan Jacob's Emerging Infectious Disease Ecology Lab
 :    **2023 - Now: Postdoctoral Researcher**
 :    Investigating how transposon-mediated gene loss influences genome
 evolution, host-switching, and ecological niche switching.
+:    Central NGS data standardization, database management, and adapting
+Mycotools software suite to accomodate 100,000s prokaryote genomes
 
 Dr. Jason Slot's Fungal Evolutionary Genomics Lab
 :    **2018 - 2023: Computational Biologist Research Fellow**
-:    Evolution of fungal gene cluster architecture
-:    Biosynthetic gene cluster detection
-:    Secondary metabolism evolution and phylogenomics
+:    Big data genomics and phylogenomics analysis to study the evolution 
+of fungal gene cluster architecture
+:    Algorithm development using mathematical/statistical modeling of
+evolutionary processes underlying biosynthetic gene cluster detection
 :    Mycology lecturer and teaching assistant
 :    Practical Computing for Biology lecturer and teaching assistant
 
