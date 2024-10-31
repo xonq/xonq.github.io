@@ -45,6 +45,9 @@ Dr. Jason Slot's Fungal Evolutionary Genomics Lab
 of fungal gene cluster architecture
 :    Algorithm development using mathematical/statistical modeling of
 evolutionary processes underlying biosynthetic gene cluster detection
+:    Integrative genomics-metabolomics algorithm development to identify 
+novel natural products by synthesizing phylogenetic and tandem mass
+spectrometry analysis
 :    Mycology lecturer and teaching assistant
 :    Practical Computing for Biology lecturer and teaching assistant
 
