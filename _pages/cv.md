@@ -27,13 +27,18 @@ BS, Biology: Ecology; Chemistry minor
 
 EXPERIENCE
 ---------
+Theiagen Genomics, LLC
+:   **2025 - Now: Senior Bioinformatics Developer**
+:   Microbial pathogen genomics developer focusing on public health
+bioinformatics pipelines
+
 Ruby Bio, Inc.
 :   **2023 - 2024: Bioinformatics and Genomics Science Consultant**
 :   Integrative -omics (metabolomics, transcriptomics, and genomics) to
 identify and engineer expression of biosynthetic pathways
 
 Dr. Jonathan Jacob's Emerging Infectious Disease Ecology Lab
-:    **2023 - Now: Postdoctoral Researcher**
+:    **2023 - 2025: Postdoctoral Researcher**
 :    Investigating how transposon-mediated gene loss influences genome
 evolution, host-switching, and ecological niche switching.
 :    Central NGS data standardization, database management, and adapting
