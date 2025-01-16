@@ -10,7 +10,7 @@ technical consultation, computational infrastructure development/deployment,
 mycology/fungal biology education/outreach, software workshops, among other
 skills relevant to my expertise.
 
-Please email konkelzach@pm.me for more information, meeting, and contracting.
+Please email konkelzach@tuta.io for more information, meeting, and contracting.
 
 
 General expertise:

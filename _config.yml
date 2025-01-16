@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MycOmics, LLC
-email: konkelzach@pm.me
+email: konkelzach@tuta.io
 description: >- # this means to ignore newlines until "baseurl:"
   MycOmics, LLC - Computational genomics at the bleeding-edge
 github_username: xonq 
@@ -71,7 +71,7 @@ author:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:konkelzach@pm.me"
+      url: "mailto:konkelzach@tuta.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:konkelzach@pm.me"
+      url: "mailto:konkelzach@tuta.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
