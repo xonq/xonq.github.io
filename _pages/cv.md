@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: false
 ---
 
-konkelzach@tuta.io
+konkelzach@tuta.com
 
 
 EDUCATION
