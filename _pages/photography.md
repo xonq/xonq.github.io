@@ -78,3 +78,13 @@ style="width:750px"/>
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK_2016.jpg?raw=true"
 title="Broken Top, Three Sisters of Oregon, Mt. Washington, Three Fingered Jack, Mt. Jefferson, and Mt. Hood"
 style="width:750px"/>
+
+To do:
+
+- Mt. Baker
+- Glacier Peak
+- Mt. Adams
+- Mt. St. Helens
+- Crater Lake
+- Mt. Shasta
+- Lassen Peak
