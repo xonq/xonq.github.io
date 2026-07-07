@@ -35,12 +35,12 @@ title="Three Fingered Jack, Mt. Washington, Three Sisters of Oregon, and Broken 
 style="width:750px"/>
 
 <img
-src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK03636.jpg?raw=true"
+src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK03661.jpg?raw=true"
 title="Three Fingered Jack"
 style="width:750px"/>
 
 <img
-src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK03661.jpg?raw=true"
+src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK03636.jpg?raw=true"
 title="Three Fingered Jack"
 style="width:750px"/>
 
