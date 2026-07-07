@@ -85,6 +85,7 @@ To do:
 - Glacier Peak
 - Mt. Adams
 - Mt. St. Helens
+- Mt. Washington
 - Crater Lake
 - Mt. Shasta
 - Lassen Peak
