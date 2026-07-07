@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 My free time is best spent in the wilderness, with an affinity for
-circumnavigating Cascades' volcanoes. Here is my photography in pursuit
-of capturing each peak, organized by north to south perspective.
+circumnavigating Cascades' volcanoes. I am currently on a mission to 
+photograph each peak, with my progress depicted here:
 
 <img
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/photography/ZMK_20240731_2.jpg?raw=true"
