@@ -1,9 +1,9 @@
 main:
-  - title: "Blog"
-    url: /blog/
   - title: "Software"
     url: /software/
   - title: "Consultation"
     url: /consultation/
   - title: "CV"
     url: /cv/
+  - title: "Photography"
+    url: /photography/
