@@ -5,7 +5,7 @@ permalink: /photography/
 author_profile: true
 ---
 
-My free time is best spent in the wilderness, with an affinity toward
+My free time is best spent in the wilderness, with an affinity for
 circumnavigating Cascades' volcanoes. Here is my photography in pursuit
 of capturing each peak, organized by north to south perspective.
 
