@@ -13,14 +13,7 @@ At <a href="https://www.theiagen.com">Theiagen Genomics</a>, I develop software
 that brings automated, cloud-based pathogen genomics to public health
 laboratories:
 
-- Genomic characterization, submission preparation, and genomic epidemiology
-  workflows for viral, bacterial, and fungal pathogens
-- Development automation that compiles workflow dependency graphs and traces
-  the testing each code change requires
-- Gene-centric analysis of coverage and variants, from read alignments to
-  annotated variant reports
-- Command-line tooling that automates data transfers and workflow submissions
-  across bioinformatics platforms
+Tailoring genomic characterization, submission preparation, and genomic epidemiology workflows for viral, bacterial, and fungal pathogens. On the engineering side, enabling automated development through systematic workflow dependency graph compilation, testing, and validation.
 {: style="clear:left"}
 
 <div style="clear:both"></div>
