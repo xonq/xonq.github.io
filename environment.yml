@@ -2,42 +2,6 @@ name: jekyll
 channels:
   - conda-forge
 dependencies:
-  - _openmp_mutex=4.5=20_gnu
-  - binutils_impl_linux-64=2.46.1=default_hfdba357_103
-  - c-compiler=2.0.0=ha29393d_0
-  - ca-certificates=2026.7.22=hbd8a1cb_0
-  - compilers=2.0.0=ha770c72_0
-  - conda-gcc-specs=15.3.0=h8846f6e_7
-  - cxx-compiler=2.0.0=hdab9b82_0
-  - fortran-compiler=2.0.0=h0f4f740_0
-  - gcc=15.3.0=hc6a0c74_7
-  - gcc_impl_linux-64=15.3.0=h6ad849d_7
-  - gdbm=1.18=h0a1914f_2
-  - gfortran=15.3.0=hc6a0c74_7
-  - gfortran_impl_linux-64=15.3.0=h27ced10_7
-  - gmp=6.3.0=hfd2156b_3
-  - gxx=15.3.0=hc6a0c74_7
-  - gxx_impl_linux-64=15.3.0=h90d9265_7
-  - kernel-headers_linux-64=5.14.0=he073ed8_3
-  - ld_impl_linux-64=2.46.1=default_hbd61a6d_103
-  - libffi=3.7.0=h81df57d_1
-  - libgcc=16.2.0=ha9f2e26_7
-  - libgcc-devel_linux-64=15.3.0=h2b852eb_107
-  - libgcc-ng=16.2.0=h69a702a_7
-  - libgfortran5=16.2.0=h6b99dfc_7
-  - libgomp=16.2.0=he0feb66_7
-  - libsanitizer=15.3.0=h54950a5_7
-  - libstdcxx=16.2.0=h934c35e_7
-  - libstdcxx-devel_linux-64=15.3.0=hb2c5482_107
-  - libzlib=1.3.2=h25fd6f3_3
-  - make=4.4.1=hb03c661_3
-  - ncurses=6.6=hdb14827_1
-  - openssl=3.6.5=h781a0a9_0
-  - readline=8.3=hd6e31c0_1
-  - ruby=3.1.2=hff50039_1
-  - sysroot_linux-64=2.34=h087de78_3
-  - tzdata=2026c=h151e31d_0
-  - yaml=0.2.5=hebe6cf0_3
-  - zstd=1.5.7=hb78ec9c_7
-
-prefix: "/home/zachary_konkel/.local/share/mamba/envs/jekyll"
+  - ruby=3.1  # github-pages pins Liquid 4.0.3, which breaks on Ruby >= 3.2
+  - compilers  # native gem extensions (nokogiri, eventmachine, ...)
+  - make
