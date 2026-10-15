@@ -7,7 +7,6 @@ redirect_from:
 author_profile: false
 ---
 
-**Zachary Konkel, PhD**  
 [zkonkel@tuta.com](mailto:zkonkel@tuta.com) · [LinkedIn](https://linkedin.com/in/konkelzach) · [GitHub](https://github.com/xonq) · [Google Scholar](https://scholar.google.com/citations?user=fMdoXDMAAAAJ&hl=en&oi=ao)
 
 ## Experience
