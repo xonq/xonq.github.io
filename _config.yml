@@ -1,6 +1,6 @@
 # in the templates via {{ site.myvariable }}.
 title: MycOmics, LLC
-email: konkelzach@tuta.com
+email: zkonkel@tuta.com
 description: >- # this means to ignore newlines until "baseurl:"
   MycOmics, LLC - Computational genomics at the bleeding-edge
 github_username: xonq 
@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 logo: "/assets/images/mycomics2.png"
 
@@ -46,6 +47,11 @@ author:
   name   : "Zachary Konkel, PhD"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : |
+     Selected Repositories:\
+     <img src="https://avatars.githubusercontent.com/u/50809249" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">theiagen</FONT>](https://github.com/theiagen)\
+     <img src="/assets/images/mycotools.png" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">xonq/mycotools</FONT>](https://github.com/xonq/mycotools)\
+     <img src="/assets/images/cloci.png" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">xonq/cloci</FONT>](https://github.com/xonq/cloci)
+
      Selected Publications:\
      [<FONT COLOR="1167b1">Gene cluster detection</FONT>](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae625/7715716?login=false)\
      [<FONT COLOR="1167b1">Large-scale genomics</FONT>](https://academic.oup.com/mbe/article/39/5/msac109/6588634)\
@@ -54,15 +60,10 @@ author:
      [<FONT COLOR="1167b1">Biosynthetic pathway discovery</FONT>](https://www.pnas.org/doi/full/10.1073/pnas.2214076120)\
      [<FONT COLOR="1167b1">Natural product metabolomics</FONT>](https://www.sciencedirect.com/science/article/pii/S1087184519302361)
 
-     Selected Repositories:\
-     <img src="/assets/images/theiagen.png" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">theiagen</FONT>](https://github.com/theiagen)\
-     <img src="/assets/images/mycotools.png" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">xonq/mycotools</FONT>](https://github.com/xonq/mycotools)\
-     <img src="/assets/images/cloci.png" alt="" style="width:60px;height:20px;object-fit:contain;vertical-align:middle"> [<FONT COLOR="1167b1">xonq/cloci</FONT>](https://github.com/xonq/cloci)
-
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:konkelzach@tuta.com"
+      url: "mailto:zkonkel@tuta.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"
@@ -74,7 +75,7 @@ footer:
   links:
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:konkelzach@tuta.com"
+      url: "mailto:zkonkel@tuta.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/konkelzach"

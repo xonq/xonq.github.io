@@ -5,6 +5,28 @@ permalink: /software/
 author_profile: true
 ---
 
+<a href="https://github.com/theiagen"><img align="left"
+src="https://avatars.githubusercontent.com/u/50809249"
+title="Theiagen Genomics"
+style="width:128px;margin-right:1em"/></a>
+At <a href="https://www.theiagen.com">Theiagen Genomics</a>, I develop software
+that brings automated, cloud-based pathogen genomics to public health
+laboratories:
+
+- Genomic characterization, submission preparation, and genomic epidemiology
+  workflows for viral, bacterial, and fungal pathogens
+- Development automation that compiles workflow dependency graphs and traces
+  the testing each code change requires
+- Gene-centric analysis of coverage and variants, from read alignments to
+  annotated variant reports
+- Command-line tooling that automates data transfers and workflow submissions
+  across bioinformatics platforms
+{: style="clear:left"}
+
+<div style="clear:both"></div>
+
+<br />
+
 <a href="https://github.com/xonq/cloci"><img align="right"
 src="https://github.com/xonq/xonq.github.io/blob/master/assets/images/cloci.png?raw=true"
 title="Co-occurrence Locus and Orthologous Cluster Identifier"
